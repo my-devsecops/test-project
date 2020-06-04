@@ -1,0 +1,8 @@
+path_classifiers:
+  test:
+    - "**/*_test.py"
+queries:
+  - exclude: "*"
+  - include:
+      tags:
+        - "security"
