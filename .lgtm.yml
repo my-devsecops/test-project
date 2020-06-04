@@ -1,0 +1,5 @@
+path_classifiers:
+  test:
+    - "**/*_test.py"
+queries:
+  - exclude: py/polluting-import
